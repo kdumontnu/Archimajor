@@ -6,4 +6,11 @@ Project Logs*/
 Assembly Exports/
 __Previews/
 History/
-*.raw
+*.rawProject Outputs*/
+Project Logs*/
+Assembly Exports/
+__Previews/
+History/
+*.PcbDoc.htm
+.allspice/
+.as-meta/
